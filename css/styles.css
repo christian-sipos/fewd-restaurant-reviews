@@ -201,7 +201,7 @@ nav h1 a {
 /* ====================== Restaurant Details ====================== */
 
 .inside header {
-  position: absolute;
+  position: fixed;
   top: 0;
   width: 100%;
   z-index: 1000;
